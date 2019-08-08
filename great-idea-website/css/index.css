@@ -63,4 +63,81 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+.container{
+	width: 877px;
+	margin: auto;
+	border: 1px solid black;
+}
+
+header nav{
+	display: inline-block;
+	margin-top: 35px;
+}
+
+header nav a{
+	margin: 0 20px; 
+	text-decoration: none;
+	color:lightgray;
+	padding: 10px;
+}
+
+header .logo{
+	margin-left: 0px;
+}
+
+h1{
+	font-size: 75px;
+    margin: 15%;
+	display: inline-block;
+	text-align: center;
+}
+
+button{
+	border: 1px solid black;
+	font-size: 20px;
+	position: relative;
+	left: 155px;
+}
+
+.cta-text{
+	display: inline-block;
+}
+
+.cta{
+	margin-top: 70px;
+}
+
+hr{
+	width:20px;
+}
+
+p{
+	font-size: 20px;
+	padding: 10px;
+	line-height: 1.4;
+}
+
+.features{
+	display: inline-block;
+	width: 49%;
+}
+.about{
+	display: inline-block;
+	width: 49%;
+}
+.services{
+	display: inline-block;
+	width:30%;
+}
+.product{
+	display: inline-block;
+	width:30%;
+}
+.vision{
+	display: inline-block;
+	width:30%;
+}
+
+
+
+
